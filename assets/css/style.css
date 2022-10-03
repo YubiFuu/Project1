@@ -32,6 +32,11 @@ div.top {
     justify-content: space-between;
     border-bottom: 2px solid #042a5a;
 }
+h1 {
+    font-family: "OpenSans";
+    font-size: 1.8rem;
+    font-weight: 400;
+}
 
 header {
     font-family: "Athene";
