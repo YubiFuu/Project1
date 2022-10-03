@@ -55,6 +55,7 @@ div.header {
     width: 1152px;
 }
 h2 {
+    font-weight: 400;
     font-size: 16rem;
     font-family: "Athene";
 }
@@ -99,6 +100,7 @@ p.number {
 }
 
 h3 {
+    font-weight: 400;
     font-size: 16rem;
     font-family: "Athene";
     width: 500px;
