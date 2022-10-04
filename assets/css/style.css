@@ -119,6 +119,8 @@ p.text {
     max-width: 535px;
     height: 180px;
     font-size: 1.8rem;
+    line-height: 200%;
+    letter-spacing: -0.02em;
 }
 
 div.table-around {
